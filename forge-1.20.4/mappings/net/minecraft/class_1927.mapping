@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_1927
+	METHOD method_55109 getPos ()Lnet/minecraft/class_243;
